@@ -1,4 +1,5 @@
 
-Els� sor
-git config --global user.email "you@example.com"
+Elsõ sor
+git config --global user.email "U2@example.com"
 git config --global user.name "Balazs Lekai"
+Gyerünk!
